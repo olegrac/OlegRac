@@ -1,4 +1,7 @@
-﻿EXECUTE RefClients  @ClStat='',  @ObjKey='049715',  @LastDate='19000101'
+﻿-- test  test  test  test  test  test  test  test  test  test  test 
+
+
+EXECUTE RefClients  @ClStat='',  @ObjKey='049715',  @LastDate='19000101'
 EXECUTE WallTranStart  @ProcId='_6VV0L48EQ',  @OperCode='R33000'
 EXECUTE ManagerList
 EXECUTE seladdfeatures  @objcd='C'
