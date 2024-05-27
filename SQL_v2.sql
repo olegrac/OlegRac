@@ -166,3 +166,6 @@ exec [CBBR_RevHBPayment] @DocID = 'OR Testv 13', @DeleteIfCompleted = 1--	@FromS
 -- синхронизация с ИБ
 exec [dbo].[GetHBState]
 
+--test test test test test test test test test test 
+--test test test test test test test test test test 
+--test test test test test test test test test test 
